@@ -1,0 +1,13 @@
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\bin\Debug\battleship.exe.config
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\bin\Debug\battleship.exe
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\bin\Debug\battleship.pdb
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.csproj.AssemblyReference.cache
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.csproj.SuggestedBindingRedirects.cache
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.Properties.Resources.resources
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.csproj.GenerateResource.cache
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.csproj.CoreCompileInputs.cache
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.exe
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.pdb
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.MainMenu.resources
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.GameSettings.resources
+C:\spbu\prog\Основы программирования\pf-2022-battleship-DIvanCode\battleship\obj\Debug\battleship.Game.resources
